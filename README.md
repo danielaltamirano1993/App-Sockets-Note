@@ -2,7 +2,7 @@
 
 - This software is summarized in the Package.json file
 
-#Resources
+# Resources
 
 Node Js
 - Socket IO
@@ -12,7 +12,7 @@ Node Js
 - nodemon 
 - among others.
 
-#How to test the app
+# How to test the app
 
 - Download the project using GitHub Desktop
 - Run with 'npm install' in the root directory
